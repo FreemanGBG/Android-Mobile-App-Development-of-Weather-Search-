@@ -8,3 +8,6 @@
 
 
 <img width="267" alt="current" src="https://user-images.githubusercontent.com/45133724/113940085-c381c780-97b1-11eb-952f-ebae5f472d49.png">
+<img width="210" alt="detailedWeather" src="https://user-images.githubusercontent.com/45133724/113940136-d5fc0100-97b1-11eb-89cc-117131f582c8.png">
+<img width="217" alt="favorite" src="https://user-images.githubusercontent.com/45133724/113940154-db594b80-97b1-11eb-931e-c60e9266cc39.png">
+<img width="220" alt="photosTab" src="https://user-images.githubusercontent.com/45133724/113940166-df856900-97b1-11eb-9bff-170b349f1a38.png">
