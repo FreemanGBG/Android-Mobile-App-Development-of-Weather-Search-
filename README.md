@@ -5,3 +5,6 @@
 •	Developed the Android version using Android Studio and web version using Bootstrap and Angular 8, the backend was built using Node.js and deployed on Amazon Web Services (AWS).
 
 •	Leveraged Forecast.io API to get weather information, Google Customized Search API to fetch corresponding images, and the Place Autocomplete service provided by Google to implement Autocomplete for cities based on users’ input. 
+
+
+<img width="267" alt="current" src="https://user-images.githubusercontent.com/45133724/113940085-c381c780-97b1-11eb-952f-ebae5f472d49.png">
