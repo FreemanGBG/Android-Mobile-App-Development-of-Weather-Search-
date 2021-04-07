@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/.android/build-cache/9e33f33e1ed4bff06d8e08b84bcb138a3f1ea6ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/classes_d6e7b4fd633f22ae982f27129f647c1e7297b389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/.android/build-cache/1a1448ced5daa86c4fdf113466a4fbccfb2e67bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/classes_256737cab6eb3fec3878d33560708c9754639ee3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/.android/build-cache/3491fdefadadf8e6fd3ad908e7479ac0fd7120db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/classes_62eb2c2e4387ab7efa4d14b2a529bd2698f2db7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/.android/build-cache/9a5baf1eb78d5e10f6454e0453c8b89b6aca8277/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/classes_eb07fa42bc59c9a2b958938d09835364ed35d06b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/.android/build-cache/0c37556a7ded7f4a0d9231c5e2b720584b4b682c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/classes_a39708a0b994546a3b0f0832ee78a74f602b4403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/.android/build-cache/22b76d732dc272dc2e0bfd2969bc5820a8304abd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/classes_a97bfd582f3644826c0dfc55ac55a1915e991428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_3b22cc783c064283110f78a1e19330343cb8f5b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/.android/build-cache/52ccf8ca3338d94d892f0cfed0f9698db842fca9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/classes_4c030a26521e3d5bb558178df2f0bda85d7ac9cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/.android/build-cache/6be9b43949e7a1fef58b045eb4cac48b0e9563d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/classes_9d285af3e38cdaeddd2009b64f840c2ea1ff67d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/.android/build-cache/e6b4c84eb01ee6e8fc094778d1f481efb2b3b68e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/classes_6d6a10e96683ba622096fa762ac4658d83690372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/.android/build-cache/e8e5bd35fefe6c4d36ff14d798900036763c14a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/classes_59822ff8dfc1ab067687094e4c55468c90404cc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_e5582647a6b41867d1e3a66acba4ea4b682af068.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/.android/build-cache/06f2c698583580b18581dc56607fe8b28b6d54de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/classes_3b3c2e8c4867f6eacb6db76c4a264fd2fa019cab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/.android/build-cache/a46409ef088d44823682606094693368e71790d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/classes_203c7a6747478ed3065a5569861f0b0c4f7cc6a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/.android/build-cache/764baabc59563a8e509d2248ac4a7093d882e612/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/classes_3d21c1ee25d503c8f7cabe12b99a83f57a85bc09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sahil/.android/build-cache/87626457fc2f2579763926c573c5751c11cdf90f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/sahil/AndroidStudioProjects/Demo/app/build/intermediates/pre-dexed/debug/classes_2d83cd2bb7d9ee90ba93aba4c0d9d4ca7f038792.jar" />
+    </item>
+
+</items>
