@@ -7,7 +7,8 @@
 •	Leveraged Forecast.io API to get weather information, Google Customized Search API to fetch corresponding images, and the Place Autocomplete service provided by Google to implement Autocomplete for cities based on users’ input. 
 
 
-<img width="267" alt="current" src="https://user-images.githubusercontent.com/45133724/113940085-c381c780-97b1-11eb-952f-ebae5f472d49.png">
-<img width="210" alt="detailedWeather" src="https://user-images.githubusercontent.com/45133724/113940136-d5fc0100-97b1-11eb-89cc-117131f582c8.png">
-<img width="217" alt="favorite" src="https://user-images.githubusercontent.com/45133724/113940154-db594b80-97b1-11eb-931e-c60e9266cc39.png">
-<img width="220" alt="photosTab" src="https://user-images.githubusercontent.com/45133724/113940166-df856900-97b1-11eb-9bff-170b349f1a38.png">
+![AndroidWeatherAppFinalDemo1](https://user-images.githubusercontent.com/45133724/113940216-f4fa9300-97b1-11eb-9e66-64114ebc5744.PNG)
+![AndroidWeatherAppFinalDemo2 PNG](https://user-images.githubusercontent.com/45133724/113940232-f88e1a00-97b1-11eb-8ca4-a3940f55d003.PNG)
+![CSCI571FinalDemo3](https://user-images.githubusercontent.com/45133724/113940237-fb890a80-97b1-11eb-9dfd-91868ecd257e.PNG)
+![CSCI571FinalDemo4](https://user-images.githubusercontent.com/45133724/113940243-fdeb6480-97b1-11eb-8c65-6f817e49afcc.PNG)
+
